@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">Carkit</string>
+    <string name="process" />
+    <string name="bluetooth_remember_choice">一直允许</string>
+    <string name="dun_notif_ticker">蓝牙 DUN 请求</string>
+    <string name="dun_notif_title">DUN 会话密钥请求</string>
+    <string name="dun_notif_message">触摸可连接 \"%1$s\".</string>
+    <string name="dun_acceptance_timeout_message">连接超时 %1$s</string>
+    <string name="bluetooth_dun_request">DUN 请求</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s 要使用 DUN. 授权 %2$s?</string>
+    <string name="ftp_acceptance_dialog_title">%1$s 要访问手机目录. 给予授权 %2$s?</string>
+    <string name="ftp_acceptance_dialog_header">手机目录访问</string>
+    <string name="ftp_session_key_dialog_title">输入会话密匙 %1$s</string>
+    <string name="ftp_session_key_dialog_header">需要蓝牙会话密匙</string>
+    <string name="ftp_acceptance_timeout_message">连接超时 %1$s</string>
+    <string name="ftp_authentication_timeout_message">输入会话密匙超时 %1$s</string>
+    <string name="ftp_notif_ticker">蓝牙连接请求</string>
+    <string name="ftp_notif_title">FTP会话密匙请求</string>
+    <string name="ftp_notif_message">触摸可连接 \"%1$s\".</string>
+    <string name="ftp_notif_active_session">蓝牙FTP活动会话</string>
+    <string name="ftp_notif_connected">蓝牙文件传输存取 \"%1$s\".</string>
+    <string name="bluetooth_ftp_request">Ftp请求</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s要访问你的文件与目录. 给予授权 %2$s?</string>
+    <string name="map_acceptance_dialog_title">%1$s 要存取手机目录. 给予授权 %2$s?</string>
+    <string name="map_acceptance_dialog_header">手机目录存取</string>
+    <string name="map_session_key_dialog_title">输入会话密匙 %1$s</string>
+    <string name="map_session_key_dialog_header">蓝牙会话密匙请求</string>
+    <string name="map_acceptance_timeout_message">连接超时 %1$s</string>
+    <string name="map_authentication_timeout_message">输入会话密匙超时 %1$s</string>
+    <string name="map_notif_ticker">蓝牙连接请求</string>
+    <string name="map_notif_active_session">蓝牙MAP活动会话</string>
+    <string name="map_notif_connected">蓝牙短信访问 \"%1$s\".</string>
+    <string name="map_notif_title">MAP会话密匙</string>
+    <string name="map_notif_message">触摸以连接 \"%1$s\".</string>
+    <string name="map_alert_conn_failed_message">蓝牙MAP连接失败.</string>
+    <string name="bluetooth_mas_request">短信访问请求</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s 要访问短信.给予授权 %2$s?</string>
+    <string name="sap_notif_ticker">Bluetooth SIM Access request</string>
+    <string name="sap_notif_title">Session Key Request for SAP</string>
+    <string name="sap_notif_message">Touch to connect to \"%1$s\".</string>
+    <string name="sap_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
+    <string name="bluetooth_sap_request">SAP request</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s would like to access your SIM. Give access to %2$s?</string>
+</resources>

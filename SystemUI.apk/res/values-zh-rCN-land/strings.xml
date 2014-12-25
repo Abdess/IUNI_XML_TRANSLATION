@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aurora_nav_bar_hidden_msg">横屏状态下，右滑虚拟键区域可以隐藏虚拟键，从屏幕右侧左滑可以调出虚拟键。可在 设置-高级设置-辅助功能 中关闭此功能。</string>
+    <string name="toast_rotation_locked">屏幕已锁定为横向浏览模式。</string>
+    <item type="string" name="APKTOOL_DUMMY_0074">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00d6">false</item>
+</resources>

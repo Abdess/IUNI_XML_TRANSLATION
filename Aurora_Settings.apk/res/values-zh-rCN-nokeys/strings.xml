@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="applications_settings_summary">管理应用</string>
+    <item type="string" name="APKTOOL_DUMMY_08b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_08b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_08b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_08b8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_08b9">false</item>
+</resources>

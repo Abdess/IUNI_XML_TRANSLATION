@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AuroraAccountSettings</string>
+    <string name="action_settings">Settings</string>
+    <string name="account_settings">账户</string>
+    <string name="aurora_account_category_title">账户</string>
+    <string name="aurora_account_category_security_title">安全设定</string>
+    <string name="add_account_label">添加账户</string>
+    <string name="header_add_an_account">添加账户</string>
+    <string name="remove_account_label">删除账户</string>
+    <string name="sync_disabled">同步功能已关闭</string>
+    <string name="sync_error">同步出错</string>
+    <string name="sync_in_progress">"点击立即同步
+正在同步…"</string>
+    <string name="account_sync_settings_title">同步</string>
+    <string name="accessibility_sync_enabled">同步功能已启用</string>
+    <string name="accessibility_sync_disabled">同步功能已停用</string>
+    <string name="accessibility_sync_error">同步错误。</string>
+    <string name="sync_is_failing">同步操作当前遇到了一些问题，很快便可恢复。</string>
+    <string name="help_url_accounts" />
+    <string name="sync_item_title">%s</string>
+    <string name="lock_settings_picker_title">选择屏幕锁定方式</string>
+    <string name="sync_enabled">同步功能已开启</string>
+    <string name="really_remove_account_title">要删除账户吗？</string>
+    <string name="really_remove_account_message">删除该账户会从手机中删除所有相关的邮件、联系人以及其它数据。</string>
+    <string name="remove_account_failed">某些应用需要使用此账户。您只有将手机重置为出厂默认设置（此操作会删除您的所有个人数据），才能删除此账户。您可以通过“设置”>“备份和重置”执行此操作。</string>
+    <string name="cant_sync_dialog_message">目前，此条目的同步功能已停用。要更改此设置，请暂时启用后台数据和自动同步功能。</string>
+    <string name="cant_sync_dialog_title">无法手动同步</string>
+    <string name="finish_button_label">完成</string>
+    <string name="sync_menu_sync_now">立即同步</string>
+    <string name="sync_menu_sync_cancel">取消同步</string>
+    <string name="last_synced">"点击立即同步
+上次同步时间：%1$s"</string>
+    <string name="auto_sync_start">自动同步开启</string>
+    <string name="sync_failed">同步失败</string>
+    <string name="sync_active">正在同步</string>
+    <string name="sync_one_time_sync">触摸可立即同步（\u0009%1$s）</string>
+    <string name="sync_automatically">自动同步应用数据</string>
+    <string name="global_change_warning">此设置会影响这部手机上的所有用户。</string>
+</resources>
