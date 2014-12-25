@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="custom_menu_items">
+        <item>添加插件</item>
+        <item>更换壁纸</item>
+        <item>图标整理</item>
+        <item>图标对齐</item>
+        <item>系统设置</item>
+    </string-array>
+</resources>

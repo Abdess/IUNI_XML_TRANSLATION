@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="daysChinese">
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+    </string-array>
+    <string-array name="auto_silence_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>不到 1 分钟后闹钟响</item>
+        <item>%1$s后闹钟响</item>
+        <item>%2$s后闹钟响</item>
+        <item>%1$s%2$s后闹钟响</item>
+        <item>%3$s后闹钟响</item>
+        <item>%1$s%3$s后闹钟响</item>
+        <item>%2$s%3$s后闹钟响</item>
+        <item>%1$s%2$s%3$s后闹钟响</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 分钟</item>
+        <item>10 分钟</item>
+        <item>15 分钟</item>
+        <item>20 分钟</item>
+        <item>25 分钟</item>
+        <item>30 分钟</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>关闭</item>
+        <item>1 分钟</item>
+        <item>5 分钟</item>
+        <item>10 分钟</item>
+        <item>15 分钟</item>
+        <item>20 分钟</item>
+        <item>25 分钟</item>
+        <item>30 分钟</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>无</item>
+        <item>暂停</item>
+        <item>关闭</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="weeked">
+        <item>日</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>"四 "</item>
+        <item>五</item>
+        <item>六</item>
+    </string-array>
+</resources>

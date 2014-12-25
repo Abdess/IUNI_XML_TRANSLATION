@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aurora_dialog_title_notice">Notice</string>
+    <string name="aurora_nav_bar_hidden_msg">"To hide navigation bar in landscape mode, swipe to right on it .
+To restore, swipe back from screen edge.
+This feature can be turned off in the Settings-Advanced-Accessibility."</string>
+    <string name="toast_rotation_locked">Screen is now locked in landscape orientation.</string>
+</resources>

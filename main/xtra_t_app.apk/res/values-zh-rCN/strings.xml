@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="IZat_MENU_TEXT">加速定位</string>
+    <string name="IZat_SUB_TITLE_TEXT">使用 Qualcomm&lt;sup>&amp;reg;&lt;/sup> IZat&lt;sup>TM&lt;/sup> 硬件加速定位</string>
+    <string name="POPUP_BOX_TITLE">同意记录地点信息</string>
+    <string name="POPUP_BOX_TEXT">为提高定位性能。 允许Qualcomm IZat收集位置数据。 Qualcomm IZat将部分数据存储于用户终端，即便在无应用程序运行时，Qualcomm IZat也可执行操作。</string>
+    <string name="POLICY_LINK">&lt;a href=\"http://gtpcn.izatcloud.net/privacy/privacy_policy.html\">条款及隐私政策&lt;/a></string>
+    <string name="IZAT_AGREE">同意</string>
+    <string name="IZAT_DISAGREE">不同意</string>
+    <string name="XT_APP_TITLE">Qualcomm IZat</string>
+</resources>
